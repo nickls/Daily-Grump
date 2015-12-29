@@ -6,7 +6,7 @@ Daily Grump was created to send friend and family a GrumpyCat(TM) motivator earl
 ## Installation
 
 You'll need a few things to get started:
-* AWS S3 account & bucket
+* AWS S3 account
 * Twilio account
 * Server with CRON
 
