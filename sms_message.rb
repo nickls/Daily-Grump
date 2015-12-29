@@ -1,3 +1,4 @@
+# This is a simple script for responding to people who respond to the DailyGrump.
 require 'twilio-ruby'
 require 'yaml'
 

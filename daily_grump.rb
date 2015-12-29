@@ -1,3 +1,4 @@
+#Script for sending people DailyGrumps
 require 'twilio-ruby'
 require 's3'
 require 'yaml'

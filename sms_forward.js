@@ -1,3 +1,5 @@
+// This is a simple AWS Lambda for forwarding SMS messages on twilio.
+
 console.log('Loading function');
 var queryString = require('querystring');
 
