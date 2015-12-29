@@ -1,7 +1,7 @@
 
 ## Motivation
 
-Daily Grump was created to send friend and family a GrumpyCat(TM) motivator early every morning.
+Daily Grump was created to send friend and family a GrumpyCat(TM) motivator early every morning. These messages are sent over MMS. The images are hosted on S3 and sample images are included in the images folder.
 
 ## Installation
 
@@ -9,6 +9,7 @@ You'll need a few things to get started:
 * AWS S3 account & bucket
 * Twilio account
 * Server with CRON
+
 
 1. Upload the images to S3.
 2. Copy settings.yml.sample to settings.yml
