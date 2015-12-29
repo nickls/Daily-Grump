@@ -10,7 +10,7 @@ You'll need a few things to get started:
 * Twilio account
 * Server with CRON
 
-
+Installation steps:
 1. Upload the images to S3.
 2. Copy settings.yml.sample to settings.yml
 3. Fill in settings.yml with your Twilio and S3 account keys.
@@ -29,4 +29,4 @@ You'll likely need to setup cron for your RVM:
 
 ## License
 
-MIT or BSD
+MIT or BSD. your call.
