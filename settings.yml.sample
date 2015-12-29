@@ -1,0 +1,8 @@
+twilio:
+  account_sid: AC9575bbb4c58d68ec5203212568634477a
+  auth_token: a35d01e506763d70a359a39bc2030dcc
+  from_number: +19704091699
+s3:
+  access_key_id: AKIRAKABOOKAVUNHXFFA
+  secret_access_key: Ek51ABiG6i2yViU6LPM83DGBw5wfDP
+  search_prefix: grumpycat/
